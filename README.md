@@ -141,7 +141,6 @@ Request body:
   "firstName": "John",
   "lastName": "Doe",
   "dateOfBirth": "1980-01-01",
-  "gender": "MALE",
   "address": {
     "street": "123 Main St",
     "city": "Anytown",
@@ -150,10 +149,6 @@ Request body:
   },
   "phoneNumber": "555-123-4567",
   "email": "john.doe@example.com",
-  "insuranceInfo": {
-    "provider": "Health Insurance Co",
-    "policyNumber": "HI12345678"
-  }
 }
 ```
 
