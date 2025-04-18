@@ -23,7 +23,7 @@ The system consists of the following microservices:
 - **Billing Service**: Manages billing accounts and transactions
 - **Analytics Service**: Processes and analyzes patient and billing data
 
-![Architecture Diagram](https://placeholder-for-architecture-diagram.png)
+![Architecture Diagram]([https://placeholder-for-architecture-diagram.png](https://github.com/user-attachments/assets/f746b761-842f-496c-96b1-32005d461d10))
 
 ## Services
 
